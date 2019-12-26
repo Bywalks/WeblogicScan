@@ -1,5 +1,5 @@
 # WeblogicScan
-Weblogic一键漏洞检测工具，V1.0
+Weblogic一键批量漏洞检测工具，V1.0
 
 	软件作者：Bywalks
 	免责声明：Pia!(ｏ ‵-′)ノ”(ノ﹏<。)
