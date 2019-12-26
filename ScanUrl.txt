@@ -1,0 +1,5 @@
+ip:port
+http://ip:port
+https://ip:port
+http://ip:port/uri
+https://ip:port/uri
