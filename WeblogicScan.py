@@ -49,7 +49,7 @@ logging.basicConfig(filename='Weblogic.log',
 
 def PocS(rip,rport):
     logging.info("---------------------------------------------------------------------")
-    logging.info("[*]Happy End,the goal is {}:{}".format(rip,rport))
+    logging.info("[*]Happy Hacking,the goal is {}:{}".format(rip,rport))
     
     print('[*]Console path is testing...')
     try:
