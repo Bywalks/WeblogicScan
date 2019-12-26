@@ -1,0 +1,4 @@
+2019-12-26 10:31:38,443 ---------------------------------------------------------------------
+2019-12-26 10:31:38,443 [*]Happy End,the goal is 202.177.46.110:7001
+2019-12-26 10:31:54,077 [+]The target Weblogic console address is exposed! The path is: http://202.177.46.110:7001/console/login/LoginForm.jsp Please try weak password blasting!
+2019-12-26 10:31:54,377 [+]The target Weblogic UDDI module is exposed! The path is: http://202.177.46.110:7001/uddiexplorer/ Please verify the SSRF vulnerability!
