@@ -4,13 +4,8 @@ Weblogic一键漏洞检测工具，V1.0
 	软件作者：Bywalks
 	免责声明：Pia!(ｏ ‵-′)ノ”(ノ﹏<。)
 	本工具仅用于安全测试，请勿用于非法用途，否则造成的一切后果自负~
-	
 	本版本为基于rabbitmask的WeblogicScan工具修改而成
 	基于我的需求做了部分优化
-	优化如下：
-          批量扫描，需扫描的Links放入ScanUrl.txt中
-          ScanUrl.txt中的Links无需固定格式，ip:port，http://ip:port ，https://ip:port ，https://ip:port/uri 均可
-          Weblogic.log只收录扫描成功的结果，这样批量扫描后，只需关注Weblogic.log即可
         
 	V 1.0使用方法：
 	    需检测Links放入ScanUrl.txt
